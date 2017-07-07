@@ -1,0 +1,5 @@
+/*
+
+This empty js file allows the Google Analytics code to be dynamically placed in the document head. It serves only as an anchor point.
+
+ */
